@@ -3,8 +3,8 @@
 Proyecto UD
 </h1>
 <p>
-<l>Nombre del proyecto: Unslayed Death</l>
-<l>Desarrolladores:</l>
+<br>Nombre del proyecto: Unslayed Death</br>
+<br>Desarrolladores:</br>
 <ol>
 <li>Alonzo Cuela Rodriguez (Dnursaurio)</li>
 <li>Ronny Melgar Ortiz (Ronny)</li>
