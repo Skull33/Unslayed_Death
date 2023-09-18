@@ -1,7 +1,5 @@
 # Unslayed_Death
-<p align="center">
-<h1>
+<h1 align="center">
 Proyecto UD
 </h1>
-</p>
 
