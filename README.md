@@ -8,7 +8,7 @@ desarrolladores:
 <ol>
 <li>Alonzo Cuela Rodriguez (Dnursaurio)</li>
 <li>Ronny Melgar Ortiz ()</li>
-<li>Rodrigo Palacios ()</li>
+<li>Rodrigo Palacios Salas()</li>
 </ol>
 </p>
 
