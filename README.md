@@ -3,7 +3,7 @@
 Proyecto UD
 </h1>
 <p>
-Nombre del proyecto: Unslayed Death
+<l>Nombre del proyecto: Unslayed Death</l>
 Desarrolladores:
 <ol>
 <li>Alonzo Cuela Rodriguez (Dnursaurio)</li>
