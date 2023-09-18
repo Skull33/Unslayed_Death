@@ -7,8 +7,8 @@ Nombre del proyecto: Unslayed Death
 desarrolladores:
 <ol>
 <li>Alonzo Cuela Rodriguez (Dnursaurio)</li>
-<li>Ronny Melgar Ortiz ()</li>
-<li>Rodrigo Palacios Salas()</li>
+<li>Ronny Melgar Ortiz (Ronny)</li>
+<li>Rodrigo Palacios Salas(Ryther)</li>
 </ol>
 </p>
 
